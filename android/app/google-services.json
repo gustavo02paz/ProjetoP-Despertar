@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515798526348",
+    "project_id": "erudprojeto",
+    "storage_bucket": "erudprojeto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515798526348:android:77d67c0a610533707a4ea9",
+        "android_client_info": {
+          "package_name": "com.example.namer_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCck5PRCLjG-Jgl9KufmEYTCf9JiiHsUdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
